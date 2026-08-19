@@ -97,8 +97,9 @@ The dashboard can be used to identify:
 
 ## 📸 Dashboard Preview
 
-<img width="1917" height="937" alt="Screenshot 2026-08-19 140309" src="https://github.com/user-attachments/assets/54bf25ea-8330-4725-922c-cc934c338b47" /><img width="1143" height="808" alt="Screenshot 2026-08-19 134636" src="https://github.com/user-attachments/assets/b3bf3f6f-bef8-4ded-a4fb-d2ea811e70ab" />
+<img width="1917" height="937" alt="Screenshot 2026-08-19 140309" src="https://github.com/user-attachments/assets/54bf25ea-8330-4725-922c-cc934c338b47" />
 <img width="1919" height="938" alt="Screenshot 2026-08-19 140238" src="https://github.com/user-attachments/assets/1b570f82-c14b-441a-98e4-2c20a68aab00" />
+<img width="1143" height="808" alt="Screenshot 2026-08-19 134636" src="https://github.com/user-attachments/assets/b3bf3f6f-bef8-4ded-a4fb-d2ea811e70ab" />
 
 
 ## 💡 Business Value
